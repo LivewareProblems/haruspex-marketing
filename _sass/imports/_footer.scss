@@ -4,10 +4,10 @@
  */
 #colophon {
   background: _palette(secondary);
-  color: _palette(meta);
+  color: _palette(dark-accent);
 
   a {
-    color: inherit;
+    color: _palette(dark-accent-alt);
 
     &:hover,
     &:focus {
