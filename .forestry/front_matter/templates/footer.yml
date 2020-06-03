@@ -7,10 +7,6 @@ fields:
   name: logo_img
   label: Logo
   description: The logo image displayed in the footer
-- type: text
-  name: tagline
-  label: Footer Tagline
-  description: The tagline displayed in the footer
 - type: boolean
   name: has_nav
   label: Enable Navigation Menu

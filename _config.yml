@@ -1,9 +1,9 @@
-title: Stackbit Azimuth Theme
+title: Haruspex
 baseurl: /
 permalink: '/:title/'
 palette: blue
 header:
-  title: Azimuth
+  title: Haruspex
   logo_img: images/logo.png
   has_nav: true
   nav_links:
@@ -20,7 +20,6 @@ header:
       primary: true
 footer:
   logo_img: images/logo_alt.png
-  tagline: SaaS theme by Stackbit
   has_nav: true
   nav_title: Company
   nav_links:
@@ -38,20 +37,13 @@ footer:
     - label: Twitter
       url: 'https://twitter.com/'
       new_window: true
-    - label: Instagram
-      url: 'https://www.instagram.com/'
-      new_window: true
     - label: LinkedIn
       url: 'https://www.linkedin.com/'
       new_window: true
   has_subscribe: true
   subscribe_title: Subscribe
   subscribe_content: Stay up to date with our latest developments.
-  content: '&copy; Stackbit. All rights reserved.'
-  links:
-    - label: Made with Stackbit
-      url: 'https://www.stackbit.com'
-      new_window: true
+  content: '&copy; Liveware Problems. All rights reserved.'
 sass:
   indentWidth: 4
   style: nested
