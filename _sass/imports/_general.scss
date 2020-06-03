@@ -260,13 +260,12 @@ a.button {
   height: 2.75em;
   line-height: 1.5;
   padding: 0.5em 30px;
-  -webkit-transition: opacity .15s ease-in-out;
-  transition: opacity .15s ease-in-out;
 
   &:hover,
   &:focus,
   &:active {
-    opacity: 0.75;
+    background: _palette(border-accent);
+    border: 2px solid _palette(border-accent);
     outline: 0;
   }
 }
