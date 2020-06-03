@@ -288,14 +288,14 @@ a.button.large {
 
 .button.secondary {
   background: transparent;
-  color: _palette(border-accent);
+  color: _palette(accent);
   -webkit-transition: background-color .2s ease-in-out, color .2s ease-in-out;
   transition: background-color .2s ease-in-out, color .2s ease-in-out;
 
   &:hover,
   &:focus,
   &:active {
-    background: _palette(accent);
+    background: _palette(border-accent);
     color: #fff;
     opacity: 1;
   }
