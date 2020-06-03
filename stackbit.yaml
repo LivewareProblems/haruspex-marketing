@@ -63,9 +63,6 @@ models:
         description: The color palette of the site
         options:
           - blue
-          - purple
-          - green
-          - orange
         default: blue
       - type: header
         name: header

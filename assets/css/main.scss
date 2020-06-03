@@ -18,13 +18,7 @@ $palette: (
   accent:            #0c7bb3,
   accent-alt:        #53baed,
   border-accent:     #cf7911,
-  dark-accent:       #229ad6,
-  accent-purple:     #b5267b,
-  accent-purple-alt: #632695,
-  accent-green:      #438945,
-  accent-green-alt:  #73bb75,
-  accent-orange:     #fe8c00,
-  accent-orange-alt: #f83600
+  dark-accent:       #229ad6
 );
 
 @import "imports/functions";
@@ -37,5 +31,4 @@ $palette: (
 @import "imports/posts";
 @import "imports/sections";
 @import "imports/footer";
-@import "imports/palettes";
 @import "imports/banner";

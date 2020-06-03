@@ -29,9 +29,6 @@ fields:
       type: custom
     options:
     - blue
-    - purple
-    - green
-    - orange
 - type: field_group
   name: header
   label: Header Configuration
