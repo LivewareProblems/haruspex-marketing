@@ -7,7 +7,7 @@
   color: _palette(dark-accent);
 
   a {
-    color: _palette(dark-accent-alt);
+    color: _palette(accent-alt);
 
     &:hover,
     &:focus {
@@ -46,7 +46,7 @@
 }
 
 .widget-title {
-  color: _palette(border);
+  color: _palette(dark-accent);
   font-size: 1rem;
   margin: 0 0 1.33333rem;
 }
