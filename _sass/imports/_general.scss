@@ -288,7 +288,7 @@ a.button.large {
 
 .button.secondary {
   background: transparent;
-  color: _palette(accent);
+  color: _palette(border-accent);
   -webkit-transition: background-color .2s ease-in-out, color .2s ease-in-out;
   transition: background-color .2s ease-in-out, color .2s ease-in-out;
 
