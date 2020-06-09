@@ -5,8 +5,8 @@ sections:
   template: section_hero
   title: This Is A Big Hero Headline
   section_id: hero
-  content: LOREM IMPSUM SIC DOLOR AMET Azimuth is the perfect theme for developers,
-    designers and entrepreneurs who need a sleek, modern SaaS site.
+  content: Azimuth is the perfect theme for developers, designers and entrepreneurs
+    who need a sleek, modern SaaS site.
   image: images/hero.png
   actions:
   - label: Learn More
