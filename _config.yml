@@ -18,7 +18,7 @@ header:
     url: "/signup"
     primary: true
 footer:
-  logo_img: images/logo_alt.png
+  logo_img: "/images/haruspex-full-logo-dark-background-responsive.svg"
   has_nav: true
   nav_title: Company
   nav_links:
