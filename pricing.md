@@ -37,16 +37,17 @@ sections:
       primary: false
       new_window: false
   - title: Enterprise
-    price: "$149/m"
+    price: Starts at $5000/year
     details: |-
-      * Vestibulum non eros quis
-      * Aenean iaculis lorem
-      * Mauris eleifend sapien
-      * Phasellus lobortis risus
+      All Pro features, and more:
+
+      * Secure Tenancy
+      * Scale Storage to your needs
+      * Guided Onboarding
     actions:
-    - label: Order Now
-      url: "/signup"
-      primary: false
+    - label: Contact sales@haruspex.dev for more info
+      url: mailto:sales@haruspex.dev
+      primary: true
       new_window: false
     highlight: false
 - type: section_faq
