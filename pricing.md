@@ -21,8 +21,8 @@ sections:
       primary: false
       new_window: false
     highlight: false
-  - title: Professional
-    price: "$49/m"
+  - title: PRO
+    price: "$200/m or $2000/y"
     details: |-
       * Curabitur non nunc mollis
       * Duis a purus nec ligula
@@ -31,7 +31,7 @@ sections:
       * Nullam sollicitudin ante
     highlight: true
     actions:
-    - label: Order Now
+    - label: Register Now
       url: "/signup"
       primary: false
       new_window: false
