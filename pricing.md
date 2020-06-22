@@ -24,7 +24,7 @@ sections:
   - title: PRO
     price: "$200/m"
     details: |-
-      All the Community features, plus:
+      All the Free features, plus:
 
       * 1GB of storage
       * Email Support
