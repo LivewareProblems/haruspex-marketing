@@ -326,7 +326,7 @@
 
 .plan-name {
   color: _palette(primary);
-  font-size: 2.5rem;
+  font-size: 2.25rem;
   font-weight: bold;
   margin: 0 0 1.66667rem;
 }
@@ -346,6 +346,8 @@
   ul {
     list-style: url(/images/checkmark.svg);
     padding: 0;
+    margin-left: 3rem;
+    text-align: left;
   }
 
   li {
