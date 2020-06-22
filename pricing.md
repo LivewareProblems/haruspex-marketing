@@ -24,12 +24,12 @@ sections:
   - title: PRO
     price: "$200/m"
     details: |-
-      All the Community feature, plus:
+      All the Community features, plus:
 
       * 1GB of storage
       * Email Support
       * 1 business day support response time
-      * Monthly or Annual subscription
+      * 2 months FREE with Annual subscription
     highlight: true
     actions:
     - label: Register Now
