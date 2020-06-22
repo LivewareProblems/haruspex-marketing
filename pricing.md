@@ -36,7 +36,7 @@ sections:
       url: "/signup"
       primary: false
       new_window: false
-  - title: Enterprise
+  - title: ENTERPRISE
     price: Starts at $5000/year
     details: |-
       All Pro features, and more:
