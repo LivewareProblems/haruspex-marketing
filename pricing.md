@@ -18,7 +18,7 @@ sections:
     actions:
     - label: Register Now
       url: "/signup"
-      primary: false
+      primary: true
       new_window: false
     highlight: false
   - title: PRO
