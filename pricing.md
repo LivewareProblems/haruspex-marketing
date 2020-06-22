@@ -45,7 +45,7 @@ sections:
       * Scale Storage to your needs
       * Guided Onboarding
     actions:
-    - label: Contact Us for more info
+    - label: Contact Us
       url: mailto:sales@haruspex.dev
       primary: true
       new_window: false
