@@ -15,7 +15,6 @@ sections:
       * Invite your whole team
       * 100MB of storage
       * Permalinks to all queries
-      * Best for testing, sandboxing, and small projects
     actions:
     - label: Register Now
       url: "/signup"
