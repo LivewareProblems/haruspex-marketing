@@ -28,7 +28,7 @@ sections:
 
       * 1GB of storage
       * Email Support
-      * Next business day Support response time
+      * 1 business day support response time
       * Monthly or Annual subscription
     highlight: true
     actions:
