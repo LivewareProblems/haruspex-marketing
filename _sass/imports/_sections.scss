@@ -326,19 +326,23 @@
 
 .plan-name {
   color: _palette(primary);
-  font-size: 0.88889rem;
+  font-size: 2.5rem;
   font-weight: bold;
   margin: 0 0 1.66667rem;
 }
 
 .plan-price {
   color: _palette(secondary);
-  font-size: 2.44444rem;
+  font-size: 1rem;
   font-weight: bold;
   margin-bottom: 1.66667rem;
 }
 
 .plan-details {
+  p { 
+    margin-bottom: 0.5rem;
+  }
+
   ul {
     list-style: none;
     padding: 0;
