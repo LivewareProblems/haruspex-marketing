@@ -5,7 +5,7 @@ sections:
   template: section_pricing
   title: Pricing Plans
   section_id: pricing
-  subtitle: Pricing is based on Storage used.
+  subtitle: All plans include unlimited users.
   background: gray
   pricing_plans:
   - title: FREE
