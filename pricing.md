@@ -8,7 +8,7 @@ sections:
   subtitle: Pricing is based on Storage used.
   background: gray
   pricing_plans:
-  - title: Free
+  - title: FREE
     price: "$0/m"
     details: |-
       * Store your JUnit test events
