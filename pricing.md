@@ -22,13 +22,14 @@ sections:
       new_window: false
     highlight: false
   - title: PRO
-    price: "$200/m or $2000/y"
+    price: "$200/m"
     details: |-
-      * Curabitur non nunc mollis
-      * Duis a purus nec ligula
-      * Pellentesque sit amet
-      * Fusce tempus mi vitae
-      * Nullam sollicitudin ante
+      All the Community feature, plus:
+
+      * 1GB of storage
+      * Email Support
+      * Next business day Support response time
+      * Monthly or Annual subscription
     highlight: true
     actions:
     - label: Register Now
