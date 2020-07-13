@@ -9,7 +9,7 @@ sections:
   background: gray
   pricing_plans:
   - title: FREE
-    price: "$0/m"
+    price: "$0/month"
     details: |-
       * Store your JUnit test events
       * Invite your whole team
