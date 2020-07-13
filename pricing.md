@@ -22,7 +22,7 @@ sections:
       new_window: false
     highlight: false
   - title: PRO
-    price: "$200/m"
+    price: "$200/month"
     details: |-
       All the Free features, plus:
 
