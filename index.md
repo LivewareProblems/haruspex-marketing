@@ -15,7 +15,7 @@ sections:
     new_window: false
 - type: section_features
   template: section_features
-  title: Features
+  title: ''
   section_id: features
   subtitle: ''
   background: gray
