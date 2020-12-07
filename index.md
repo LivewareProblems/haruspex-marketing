@@ -3,10 +3,9 @@ title: Home
 sections:
 - type: section_hero
   template: section_hero
-  title: This Is A Big Hero Headline
+  title: Understand what happens in CI
   section_id: hero
-  content: Azimuth is the perfect theme for developers, designers and entrepreneurs
-    who need a sleek, modern SaaS site.
+  content: Understand what is happening when you run your test suite today
   image: images/hero.png
   actions:
   - label: Learn More
@@ -65,6 +64,5 @@ sections:
   background: gray
   subtitle: ''
 layout: landing
-published: false
 
 ---
