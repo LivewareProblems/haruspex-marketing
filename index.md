@@ -6,7 +6,7 @@ sections:
   title: Understand what happens in CI
   section_id: hero
   content: Understand what is happening when you run your test suite today
-  image: images/hero.png
+  image: "/images/settings.png"
   actions:
   - label: Learn More
     url: "/features"
