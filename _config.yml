@@ -8,10 +8,10 @@ header:
   logo_img: "/images/haruspex-full-logo-responsive.svg"
   has_nav: true
   nav_links:
+  - label: About Us
+    url: "/about-us"
   - label: Home
     url: "/"
-  - label: Features
-    url: "/features"
   - label: Pricing
     url: "/pricing"
   - label: Sign Up
