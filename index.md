@@ -37,7 +37,7 @@ sections:
       Has this test always been flaky ? Has this test suite gotten slower over time ?
 
       Any query can run against all of your tests. Find trends and know about how the test suite evolved in Haruspex
-    image: images/feature3.png
+    image: "/images/undraw_data_reports_706v.png"
     actions:
     - label: Learn More
       url: "/features"
