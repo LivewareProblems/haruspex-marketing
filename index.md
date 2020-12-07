@@ -9,6 +9,10 @@ sections:
     suite runs today
   image: "/images/settings.png"
   actions:
+  - label: Sign Up
+    url: https://auth.haruspex.dev/authorize?screen_hint=signup
+    primary: false
+    new_window: false
   - label: Learn More
     url: "/features"
     primary: false
