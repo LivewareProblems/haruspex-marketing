@@ -28,10 +28,8 @@ footer:
   nav_links:
   - label: About Us
     url: "/about"
-  - label: Blog
-    url: "/blog"
   - label: Sign Up
-    url: signup
+    url: https://ui.haruspex.dev?screen_hint=signup
   - label: Contact
     url: "/contact"
   has_social: true
