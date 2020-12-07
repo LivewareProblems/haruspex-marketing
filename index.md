@@ -23,7 +23,7 @@ sections:
   - title: Eliminate Slow Tests & Unlock Your Teams Potential
     content: "With Haruspex insights into your test suite, you can know which tests
       are problematic immediately. \n\nConcentrating your efforts on them will allow
-      your developers to get faster feebdack."
+      your developers to get faster feedback."
     image: "/images/undraw_annotation_7das.png"
     actions: []
   - title: Integrate with Every Test Tool
