@@ -25,12 +25,8 @@ sections:
     content: With Haruspex insights into your test suite, you can know which tests
       are problematic immediately. Concentrating your efforts on them will allow your
       developers to get faster feebdack.
-    image: images/feature1.png
-    actions:
-    - label: Learn More
-      url: "/features"
-      primary: false
-      new_window: false
+    image: "/images/undraw_annotation_7das.png"
+    actions: []
   - title: Awesome Feature of Your Services
     content: Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
       sapien interdum luctus. Cras rhoncus condimentum metus sit amet auctor.
