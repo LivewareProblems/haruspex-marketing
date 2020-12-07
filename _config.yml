@@ -36,10 +36,7 @@ footer:
   social_title: Community
   social_links:
   - label: Twitter
-    url: https://twitter.com/
-    new_window: true
-  - label: LinkedIn
-    url: https://www.linkedin.com/
+    url: https://twitter.com/HaruspexDev
     new_window: true
   has_subscribe: true
   subscribe_title: Subscribe
