@@ -264,8 +264,8 @@ a.button {
   &:hover,
   &:focus,
   &:active {
-    background: _palette(border-accent);
-    border: 2px solid _palette(border-accent);
+    background: _palette(accent-secondary);
+    border: 2px solid _palette(accent-secondary);
     outline: 0;
   }
 }
