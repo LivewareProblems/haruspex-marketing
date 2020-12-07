@@ -38,7 +38,7 @@ footer:
   - label: Twitter
     url: https://twitter.com/HaruspexDev
     new_window: true
-  has_subscribe: true
+  has_subscribe: false
   subscribe_title: Subscribe
   subscribe_content: Stay up to date with our latest developments.
   content: "&copy; Liveware Problems. All rights reserved."
