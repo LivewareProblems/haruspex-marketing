@@ -11,7 +11,7 @@ sections:
   actions:
   - label: Sign Up
     url: https://auth.haruspex.dev/authorize?screen_hint=signup
-    primary: false
+    primary: true
     new_window: false
   - label: Learn More
     url: "/features"
