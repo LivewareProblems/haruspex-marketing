@@ -50,7 +50,7 @@ sections:
   subtitle: Send us your data and see the change for free right now
   actions:
   - label: Get Started
-    url: "/signup"
+    url: https://ui.haruspex.dev?screen_hint=signup
     primary: false
     new_window: false
 layout: landing
