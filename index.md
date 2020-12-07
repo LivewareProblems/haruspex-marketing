@@ -11,7 +11,7 @@ sections:
   actions:
   - label: Learn More
     url: "/features"
-    primary: true
+    primary: false
     new_window: false
 - type: section_features
   template: section_features
