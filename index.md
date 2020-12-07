@@ -53,12 +53,6 @@ sections:
     url: "/signup"
     primary: false
     new_window: false
-- type: section_posts
-  template: section_posts
-  title: Latest Posts
-  section_id: recent-posts
-  background: gray
-  subtitle: ''
 layout: landing
 
 ---
