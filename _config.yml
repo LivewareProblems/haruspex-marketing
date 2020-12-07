@@ -14,6 +14,10 @@ header:
     url: "/pricing"
   - label: About Us
     url: "/about"
+  - label: Login
+    url: https://ui.haruspex.dev
+    primary: true
+    new_window: true
   - label: Sign Up
     url: "/signup"
     primary: true
