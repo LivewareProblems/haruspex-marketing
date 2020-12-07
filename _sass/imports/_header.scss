@@ -61,7 +61,7 @@
   .menu-item {
     display: inline-block;
     font-size: 1.35em;
-    line-height: 1.5;
+    line-height: 1.25;
     margin: 0 0 0 30px;
 
     &.current-menu-item {
@@ -82,8 +82,8 @@
   }
 
   .button {
-    font-size: 1.35em;
-    padding: 0.25em 15px;
+    font-size: 1.25em;
+    padding: 0.20em 10px;
   }
 
   .menu-button+.menu-button {
