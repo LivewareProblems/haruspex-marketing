@@ -297,8 +297,8 @@ a.button.large {
   &:hover,
   &:focus,
   &:active {
-    background: _palette(border-accent);
-    border-color: _palette(border-accent);
+    background: _palette(accent-secondary);
+    border-color: _palette(accent-secondary);
     color: #fff;
     opacity: 1;
   }
