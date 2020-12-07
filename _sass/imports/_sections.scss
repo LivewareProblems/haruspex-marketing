@@ -307,6 +307,7 @@
       &:focus,
       &:active {
         background: _palette(accent-alt);
+        border: none;
       }
     }
   }
