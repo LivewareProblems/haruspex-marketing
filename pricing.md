@@ -33,7 +33,7 @@ sections:
     highlight: true
     actions:
     - label: Register Now
-      url: "/signup"
+      url: https://ui.haruspex.dev/auth/auth0/new?screen_hint=signup
       primary: false
       new_window: false
   - title: ENTERPRISE
