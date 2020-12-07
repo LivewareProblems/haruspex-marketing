@@ -17,7 +17,7 @@ sections:
       * Permalinks to all queries
     actions:
     - label: Register Now
-      url: "/signup"
+      url: https://ui.haruspex.dev/auth/auth0/new?screen_hint=signup
       primary: true
       new_window: false
     highlight: false
