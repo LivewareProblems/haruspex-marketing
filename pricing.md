@@ -60,9 +60,10 @@ sections:
   - question: Do the prices listed include sales tax/VAT?
     answer: No, additional sales tax or VAT will be added to the monthly/annual bill
       and Haruspex will remit them on your behalf to the appropriate entity.
-  - question: Aliquam eget purus ante?
-    answer: 'Nunc sollicitudin libero tincidunt felis pretium, consectetur aliquam
-      eros placerat. Sed neque neque, bibendum a pulvinar id, pellentesque eget velit. '
+  - question: Do you offer increased security or an on-premise option for Enterprise
+      plans?
+    answer: Not yet, but this is something we are working on. Please contact us at
+      sales@haruspex.dev
   - question: Sed scelerisque in ipsum eu sollicitudin?
     answer: Nullam quis ultrices ipsum. Integer eleifend laoreet quam, ac dignissim
       nisi mollis eget. Ut vitae nisi sit amet nisi suscipit dictum faucibus eget
