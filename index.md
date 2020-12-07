@@ -27,9 +27,9 @@ sections:
       developers to get faster feebdack.
     image: "/images/undraw_annotation_7das.png"
     actions: []
-  - title: Awesome Feature of Your Services
-    content: Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-      sapien interdum luctus. Cras rhoncus condimentum metus sit amet auctor.
+  - title: Integrate with Every Test Tool
+    content: Haruspex can work with any test tool. Export your data in the widely
+      supported JUnit format, and Haruspex will understand your data.
     image: images/feature2.png
     actions:
     - label: Learn More
