@@ -31,7 +31,7 @@ footer:
   - label: Sign Up
     url: https://ui.haruspex.dev?screen_hint=signup
   - label: Contact
-    url: "/contact"
+    url: mailto:sales@haruspex.dev
   has_social: true
   social_title: Community
   social_links:
