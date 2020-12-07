@@ -1,11 +1,35 @@
 ---
-title: About Us
-subtitle: This is an optional subtitle. It can be used to describe what this page
-  is about.
+title: About Haruspex
+subtitle: Haruspex is built by a small team. We are a team on a mission
 image: "/images/haruspex-square-logo.png"
 layout: page
 
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus quis lorem malesuada luctus. Cras lacinia, eros at dapibus molestie, risus tortor pretium ligula, eu malesuada tortor eros dapibus mi. Proin laoreet efficitur suscipit. Donec molestie volutpat euismod. Nulla gravida ligula in eros facilisis, sed dignissim tellus aliquam. Etiam convallis enim nisi, at suscipit tortor pulvinar at. Nulla a interdum lacus. Sed a porttitor mi. Sed at risus eu orci ultricies mattis sed in tellus. Cras nec neque sed dui vehicula iaculis id vel ex. Phasellus non consectetur augue. Pellentesque condimentum sapien arcu, nec tempus nunc maximus eu. Duis blandit risus nulla. In dolor dui, placerat non finibus sit amet, venenatis pretium tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Our Mission
 
-Nunc a lorem tellus. Aenean eu auctor purus. Cras pulvinar, nunc at sagittis dignissim, orci elit auctor leo, et consectetur est turpis a nunc. Vivamus in faucibus felis. Aenean rutrum magna at ex auctor, congue efficitur ligula feugiat. Proin a egestas arcu. Etiam feugiat turpis quis mollis pellentesque. Sed posuere luctus tortor, a eleifend augue varius sit amet. Integer ultrices neque sed quam dictum, quis vestibulum justo volutpat. Nam vitae tempus leo, ut mattis mi.
+We believe that the current status of tooling for tech operators is, at best,  a local maxima. We believe that the best and easiest way to make tools better in Tech is to concentrate on the ability of operators of tech to liberate their potential. We consider anything that do not follow these principles to be a personal insult. Our anger about the state of the art and the inadequacy of the conditions operators of tech have to work in is what motivate us.
+
+We can summarise this mission by three principles
+
+1. We can have nice things
+2. Taking Human Performance Seriously
+3. Make it Personal
+
+Principles
+
+These are the basis of anything we consider. We cannot exchange them for others and we should strive to use them as our North Star.
+
+Integrity, Honesty, Human Rights
+
+Values
+
+Values are guiding principles. They are not fundamental as Principles can be, but they help us take decision everyday. They are regularly in tension, but that is ok. the order of them does not particularly matter, but we believe that in following them, we will have a better business
+
+1. Sustainability
+2. Transparency
+3. Diversity
+4. Responsibility
+5. Collaboration
+6. Learning
+7. Expertise
+8. Curiosity
