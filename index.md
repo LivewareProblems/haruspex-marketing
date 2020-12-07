@@ -30,12 +30,8 @@ sections:
   - title: Integrate with Every Test Tool
     content: Haruspex can work with any test tool. Export your data in the widely
       supported JUnit format, and Haruspex will understand your data.
-    image: images/feature2.png
-    actions:
-    - label: Learn More
-      url: "/features"
-      primary: false
-      new_window: false
+    image: "/images/undraw_data_reports_706v.png"
+    actions: []
   - title: Cool Feature of Your Services
     content: In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean quis
       venenatis sem. Proin eget massa id metus eleifend maximus sit amet nec urna.
