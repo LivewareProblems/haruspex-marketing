@@ -39,11 +39,7 @@ sections:
 
       Any query can run against all of your tests. Find trends and know about how the test suite evolved in Haruspex
     image: "/images/undraw_data_reports_706v.png"
-    actions:
-    - label: Learn More
-      url: "/features"
-      primary: false
-      new_window: false
+    actions: []
 - type: section_cta
   template: section_cta
   title: This Is Call To Action Block!
