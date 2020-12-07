@@ -19,7 +19,7 @@ header:
     primary: true
     new_window: true
   - label: Sign Up
-    url: https://ui.haruspex.dev?screen_hint=signup
+    url: https://ui.haruspex.dev/auth/auth0/new?screen_hint=signup
     primary: true
 footer:
   logo_img: "/images/haruspex-full-logo-dark-background-responsive.svg"
