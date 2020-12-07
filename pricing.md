@@ -54,7 +54,7 @@ sections:
   template: section_faq
   title: Frequently Asked Questions
   section_id: faq
-  subtitle: Phasellus luctus laoreet arcu, vel porta metus imperdiet sit amet.
+  subtitle: ''
   background: gray
   faq_items:
   - question: Do the prices listed include sales tax/VAT?
