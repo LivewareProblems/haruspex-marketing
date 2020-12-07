@@ -27,8 +27,10 @@ sections:
     image: "/images/undraw_annotation_7das.png"
     actions: []
   - title: Integrate with Every Test Tool
-    content: Haruspex can work with any test tool. Export your data in the widely
-      supported JUnit format, and Haruspex will understand your data.
+    content: |-
+      Haruspex can work with all your tools
+
+      Export your data in the widely supported JUnit format, and Haruspex will understand your data.
     image: "/images/undraw_data_points_re_vkpq.png"
     actions: []
   - title: See Trends Over Time
