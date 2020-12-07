@@ -54,8 +54,7 @@ sections:
   template: section_faq
   title: Frequently Asked Questions
   section_id: faq
-  subtitle: If you have questions that are not answered here, please contact us at
-    sales@haruspex.dev
+  subtitle: If you have more questions, please contact us at sales@haruspex.dev
   background: gray
   faq_items:
   - question: Do the prices listed include sales tax/VAT?
