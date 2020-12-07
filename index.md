@@ -32,9 +32,11 @@ sections:
       supported JUnit format, and Haruspex will understand your data.
     image: "/images/undraw_data_reports_706v.png"
     actions: []
-  - title: Cool Feature of Your Services
-    content: In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean quis
-      venenatis sem. Proin eget massa id metus eleifend maximus sit amet nec urna.
+  - title: See Trends Over Time
+    content: |-
+      Has this test always been flaky ? Has this test suite gotten slower over time ?
+
+      Any query can run against all of your tests. Find trends and know about how the test suite evolved in Haruspex
     image: images/feature3.png
     actions:
     - label: Learn More
