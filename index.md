@@ -12,10 +12,10 @@ sections:
     url: https://ui.haruspex.dev?screen_hint=signup
     primary: true
     new_window: false
-  - label: Learn More
-    url: "/features"
+  - label: Get on a call with us
+    url: https://calendar.x.ai/di4na/virtual
     primary: false
-    new_window: false
+    new_window: true
 - type: section_features
   template: section_features
   title: ''
