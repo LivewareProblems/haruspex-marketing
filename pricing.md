@@ -32,10 +32,10 @@ sections:
       * 2 months FREE with Annual subscription
     highlight: true
     actions:
-    - label: Register Now
-      url: https://ui.haruspex.dev/auth/auth0/new?screen_hint=signup
+    - label: Onboard with us now
+      url: https://calendar.x.ai/di4na/onboard
       primary: false
-      new_window: false
+      new_window: true
   - title: ENTERPRISE
     price: Starts at $5000/year
     details: |-
