@@ -49,8 +49,8 @@ sections:
   section_id: call-to-action
   subtitle: Send us your data and see the change for free right now
   actions:
-  - label: Get Started
-    url: https://ui.haruspex.dev?screen_hint=signup
+  - label: Get onboarded on a call
+    url: https://calendar.x.ai/di4na/onboard
     primary: false
     new_window: false
 layout: landing
