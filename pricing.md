@@ -16,10 +16,10 @@ sections:
       * 100MB of storage
       * Permalinks to all queries
     actions:
-    - label: Register Now
-      url: https://ui.haruspex.dev/auth/auth0/new?screen_hint=signup
+    - label: Onboard with us now
+      url: https://calendar.x.ai/di4na/onboard
       primary: true
-      new_window: false
+      new_window: true
     highlight: false
   - title: PRO
     price: "$200/month"
