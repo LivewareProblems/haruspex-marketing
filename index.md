@@ -52,7 +52,7 @@ sections:
   - label: Get onboarded on a call
     url: https://calendar.x.ai/di4na/onboard
     primary: false
-    new_window: false
+    new_window: true
 layout: landing
 
 ---
