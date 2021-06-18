@@ -2,6 +2,7 @@
 new_page_extension: md
 auto_deploy: false
 admin_path: admin
+webhook_url: https://api.stackbit.com/project/5ed7b024846855001bd7f14d/webhook/forestry
 sections:
 - type: document
   path: _config.yml

@@ -5,7 +5,7 @@ sections:
   template: section_hero
   title: Understand what happens in CI
   section_id: hero
-  content: Get Observability into your test suite runs today
+  content: Get Observability into your test suite today
   image: "/images/settings.png"
   actions:
   - label: Get on a call with us
