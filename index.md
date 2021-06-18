@@ -46,7 +46,7 @@ sections:
     content: |-
       Has this test always been flaky ? Has this test suite gotten slower over time ?
 
-      Any query can run against all of your tests. Find trends and know about how the behaviour of your tests suites evolved overtime.
+      Any query can run against all of your tests. Find trends and know about how the behaviour of your tests suites evolved overtime
     image: "/images/undraw_data_reports_706v.png"
     actions: []
 - type: section_cta
