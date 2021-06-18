@@ -49,16 +49,10 @@ sass:
 plugins:
 - jekyll-menus
 exclude:
-- Gemfile
-- Gemfile.lock
-- node_modules
-- vendor/bundle/
-- vendor/cache/
-- vendor/gems/
-- vendor/ruby/
 - LICENSE.md
 - README.md
 - netlify.toml
 collections:
   posts:
     permalink: "/posts/:title/"
+    output: true
