@@ -28,7 +28,7 @@ sections:
   subtitle: ''
   background: gray
   features:
-  - title: Target your tests engineers effort
+  - title: Target your tests effort
     content: |-
       With Haruspex insights into your test suite, you can know which tests are slow or flakey immediately.
 
