@@ -287,25 +287,14 @@ a.button.large {
 }
 
 .button.secondary {
-  background: transparent;
-  color: _palette(accent);
-  -webkit-transition: background-color .2s ease-in-out, color .2s ease-in-out;
-  transition: background-color .2s ease-in-out, color .2s ease-in-out, border-color .2s ease-in-out, color .2s ease-in-out;
-
-  &:hover,
-  &:focus,
-  &:active {
-    background: _palette(accent-secondary);
-    border-color: _palette(accent-secondary);
-    color: #fff;
-    opacity: 1;
-  }
+  background: _palette(border-accent);
+  color: _palette(primary);
 }
 
 .button.white {
-  background: _palette(border-accent);
+  background: _palette(button-primary-bg);
   border-color: transparent;
-  color: _palette(primary);
+  color: black;
 
   &:hover,
   &:focus,
