@@ -1,6 +1,5 @@
 ---
 title: About Haruspex
-subtitle: Haruspex is built by a small team. We are a team on a mission
 image: "/images/haruspex-square-logo.png"
 layout: page
 
