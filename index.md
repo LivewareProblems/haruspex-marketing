@@ -19,10 +19,11 @@ sections:
   subtitle: ''
   background: gray
   features:
-  - title: Eliminate Slow Tests & Unlock Your Teams Potential
-    content: "With Haruspex insights into your test suite, you can know which tests
-      are problematic immediately. \n\nConcentrating your efforts on them will allow
-      your developers to get faster feedback."
+  - title: Target your tests engineers effort
+    content: |-
+      With Haruspex insights into your test suite, you can know which tests are slow or flakey immediately.
+
+      You will be able to target your work on the most painful point, getting results faster.
     image: "/images/undraw_annotation_7das.png"
     actions: []
   - title: Integrate with Every Test Tool
