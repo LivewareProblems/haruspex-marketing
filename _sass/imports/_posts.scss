@@ -38,8 +38,10 @@
   margin-bottom: 1.66667rem;
 
   img {
-    max-width: 100%;
+    width: 100%;
     max-height: 10vw;
+    object-position: center;
+    object-fit: contain;
   }
 }
 
