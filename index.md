@@ -13,14 +13,14 @@ sections:
     Get Observability into your test suite today
   image: "/images/settings.png"
   actions:
-  - label: Sign Up
-    url: https://ui.haruspex.dev?screen_hint=signup
-    primary: true
-    new_window: false
   - label: Get on a call with us
     url: https://calendar.x.ai/di4na/virtual
     primary: false
     new_window: true
+  - label: Sign Up
+    url: https://ui.haruspex.dev?screen_hint=signup
+    primary: true
+    new_window: false
 - type: section_features
   template: section_features
   title: ''
