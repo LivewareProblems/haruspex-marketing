@@ -37,11 +37,3 @@ fields:
     template: feature_item
   config:
     labelField: title
-- type: text
-  name: type
-  label: Reference Type Name
-  description: Name of the Stackbit object model, used by fields of type reference
-  hidden: true
-  default: section_features
-  config:
-    required: true

@@ -37,11 +37,3 @@ fields:
     template: review_item
   config:
     labelField: author
-- type: text
-  name: type
-  label: Reference Type Name
-  description: Name of the Stackbit object model, used by fields of type reference
-  hidden: true
-  default: section_reviews
-  config:
-    required: true

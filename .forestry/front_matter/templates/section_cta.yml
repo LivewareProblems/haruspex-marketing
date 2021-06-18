@@ -26,11 +26,3 @@ fields:
     template: action
   config:
     labelField: label
-- type: text
-  name: type
-  label: Reference Type Name
-  description: Name of the Stackbit object model, used by fields of type reference
-  hidden: true
-  default: section_cta
-  config:
-    required: true

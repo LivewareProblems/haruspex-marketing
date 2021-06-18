@@ -35,11 +35,3 @@ fields:
     name: include_faq_item
     label: FAQ Item
     template: faq_item
-- type: text
-  name: type
-  label: Reference Type Name
-  description: Name of the Stackbit object model, used by fields of type reference
-  hidden: true
-  default: section_faq
-  config:
-    required: true
