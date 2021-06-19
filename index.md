@@ -14,7 +14,7 @@ sections:
   image: "/images/settings.png"
   actions:
   - label: Get on a call with us
-    url: https://calendar.x.ai/di4na/virtual
+    url: https://calendar.x.ai/di4na/onboard
     primary: false
     new_window: true
   - label: Sign Up
