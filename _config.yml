@@ -30,6 +30,8 @@ footer:
     url: "/about"
   - label: Sign Up
     url: https://ui.haruspex.dev/auth/auth0/new?screen_hint=signup
+  - label: Privacy Policy
+    url: "/privacy"
   - label: Contact
     url: mailto:sales@haruspex.dev
   has_social: true
