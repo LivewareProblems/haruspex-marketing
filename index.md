@@ -56,7 +56,7 @@ sections:
   subtitle: Send us your data and see the change for free right now
   actions:
   - label: Get onboarded on a call
-    url: https://calendar.x.ai/di4na/onboard
+    url: https://calendly.com/thomas-depierre/haruspex-onboarding
     primary: false
     new_window: true
 layout: landing
