@@ -2,6 +2,7 @@
 title: About Haruspex
 image: "/images/haruspex-square-logo.png"
 layout: page
+subtitle: ''
 
 ---
 ## Our Mission
@@ -18,7 +19,7 @@ We can summarise this mission by three principles
 
 These are the basis of anything we consider. We cannot exchange them for others and we should strive to use them as our North Star.
 
-Integrity, Honesty, Human Rights
+Integrity, Honesty, Human Rights.
 
 ## Values
 
