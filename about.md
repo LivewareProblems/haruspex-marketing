@@ -7,9 +7,9 @@ subtitle: ''
 ---
 ## Our Mission
 
-We believe that the current status of tooling for tech operators is, at best,  a local maxima. We believe that the best and easiest way to make tools better in Tech is to concentrate on the ability of operators of tech to liberate their potential. We consider anything that do not follow these principles to be a personal insult. Our anger about the state of the art and the inadequacy of the conditions operators of tech have to work in is what motivate us.
+We believe that the current status of tooling for tech operators is, at best, a local maxima. We believe that the best and easiest way to make tools better in Tech is to concentrate on the ability of operators of tech to liberate their potential. We consider anything that does not follow these principles to be a personal insult. Our anger about the state of the art and the inadequacy of the conditions operators of tech have to work in is what motivate us.
 
-We can summarise this mission by three principles
+We can summarize this mission by three principles
 
 1. We can have nice things
 2. Taking Human Performance Seriously
