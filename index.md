@@ -6,7 +6,7 @@ sections:
   title: Gain insights into your tests
   section_id: hero
   content: |-
-    Haruspex provides you information at both the low and the high level immediately
+    Haruspex provides information at both the low and the high level immediately
 
     See what is failing and why, track performance regression, find flaky tests history
 
