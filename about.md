@@ -23,7 +23,7 @@ Integrity, Honesty, Human Rights.
 
 ## Values
 
-Values are guiding principles. They are not fundamental as Principles can be, but they help us take decision everyday. They are regularly in tension, but that is ok. the order of them does not particularly matter, but we believe that in following them, we will have a better business
+Values are guiding principles. They are not fundamental as Principles can be, but they help us take decision everyday. They are regularly in tension, but that is ok. Their order does not particularly matter, but we believe that in following them, we will have a better business
 
 1. Sustainability
 2. Transparency
