@@ -17,10 +17,6 @@ sections:
     url: https://calendly.com/thomas-depierre/haruspex-onboarding
     primary: false
     new_window: true
-  - label: Sign Up
-    url: https://ui.haruspex.dev?screen_hint=signup
-    primary: true
-    new_window: false
 - type: section_features
   template: section_features
   title: ''
