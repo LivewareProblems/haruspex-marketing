@@ -1,21 +1,21 @@
 ---
 title: Haruspex
 email: sales@haruspex.dev
-description: >
-  Gain insights into your tests
-  Haruspex provide you information at both the low and the high level immediately
-  See what is failing and why, track performance regression, find flaky tests history
-  Get Observability into your test suite today
-tagline: "Gain insights into your tests"
+description: 'Gain insights into your tests Haruspex provide you information at both
+  the low and the high level immediately See what is failing and why, track performance
+  regression, find flaky tests history Get Observability into your test suite today
+
+  '
+tagline: Gain insights into your tests
 logo: "/images/haruspex-square-logo.png"
-baseurl: ""
-url: "https://haruspex.dev"
+baseurl: ''
+url: https://haruspex.dev
 social:
   name: Haruspex
   links:
-    - https://twitter.com/HaruspexDev
+  - https://twitter.com/HaruspexDev
 seo:
-  type: "Organization"
+  type: Organization
 twitter:
   username: HaruspexDev
   card: summary
@@ -32,13 +32,6 @@ header:
     url: "/pricing"
   - label: About Us
     url: "/about"
-  - label: Login
-    url: https://ui.haruspex.dev
-    primary: true
-    new_window: true
-  - label: Sign Up
-    url: https://ui.haruspex.dev/auth/auth0/new?screen_hint=signup
-    primary: true
 footer:
   logo_img: "/images/haruspex-full-logo-dark-background-responsive.svg"
   has_nav: true
@@ -70,7 +63,6 @@ plugins:
 - jekyll-menus
 - jekyll-sitemap
 - jekyll-seo-tag
-
 exclude:
 - LICENSE.md
 - README.md
