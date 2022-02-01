@@ -33,7 +33,7 @@ sections:
     highlight: true
     actions:
     - label: Onboard with us now
-      url: https://calendar.x.ai/di4na/onboard
+      url: https://calendly.com/thomas-depierre/haruspex-onboarding
       primary: false
       new_window: true
   - title: ENTERPRISE
